@@ -64,7 +64,7 @@ Specification and automated design-time analysis of the business process human r
 teaching: `
 Current courses | 2026–27 at the University of Seville: Information Systems Management, Process and Service Management, Requirements Engineering, and Software Engineering and Professional Practice.
 International teaching | Bachelor’s and master’s courses at WU Vienna and UNIR, at St Petersburg University (Erasmus+), and a guest course in Ecuador (UCE/UTA).
-Supervision | One doctoral thesis completed at WU Vienna (2022, with Axel Polleres) and three more co-supervised, two at Seville and one with Barbara Weber at the University of St Gallen. I have also supervised over a dozen bachelor’s and master’s theses at WU Vienna and UNIR, seven of them with industry partners.
+Supervision | One doctoral thesis completed at WU Vienna (2022) and three more ongoing. 
 Teaching innovation | Self-assessing test suites as lab exams, built with Spring Boot and GitHub (JENUI 2023).
 # Add your current courses at Seville here, for example:
 # Current courses | Name of course (degree), name of course (master’s).
