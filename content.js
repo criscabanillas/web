@@ -49,10 +49,10 @@ Spain | Two six-year research periods recognised (sexenios) |
 
 // title | where and when | optional links, for example [DOI](https://doi.org/...) [PDF](https://...) [Code](https://github.com/...)
 publications: `
-Interactive creation, visualization, and exploration of process model collections | Software and Systems Modeling, 2026
+Interactive creation, visualization, and exploration of process model collections | Software and Systems Modeling, 2026 | [DOI](https://doi.org/10.1007/s10270-025-01346-6)
 A mashup-based framework for business process compliance checking | IEEE Transactions on Services Computing, 2022 | [DOI](https://doi.org/10.1109/TSC.2020.3001292)
-Analyzing how process mining reports answer time performance questions | BPM 2022, Best Student Paper Award
-Benchmarking Answer Set Programming systems for resource allocation in business processes | Expert Systems with Applications, 2022
+Analyzing how process mining reports answer time performance questions | BPM 2022, Best Student Paper Award | [DOI](https://doi.org/10.1007/978-3-031-16103-2_17)
+Benchmarking Answer Set Programming systems for resource allocation in business processes | Expert Systems with Applications, 2022 | [DOI](https://doi.org/10.1016/j.eswa.2022.117599)
 The RALph miner for automated discovery and verification of resource-aware process models | Software and Systems Modeling, 2020 | [DOI](https://doi.org/10.1007/s10270-020-00820-7)
 Blockchains for Business Process Management: challenges and opportunities | ACM Transactions on Management Information Systems, 2018 | [DOI](https://doi.org/10.1145/3183367)
 Mining team compositions for collaborative work in business processes | Software and Systems Modeling, 2018 | [DOI](https://doi.org/10.1007/s10270-016-0567-4)
